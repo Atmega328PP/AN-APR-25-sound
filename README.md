@@ -9,3 +9,8 @@ Generally 4-6 second mp3 files are ideal, all sounds are played on loop
 Only tracks will be shown for fighters, this is because fighter tracks typically sound the same as searches and it would be very time consuming to measure all fighter search sweeps.
 
 Will attempt to record fighter semi-active missile launches if there is a difference
+
+## Contributions
+
+Many thanks to JNelson for releasing the AN/APR-25 sample sounds at 
+"https://drive.google.com/file/d/1Dkqpj34-2Rwgqw1Gu-fhHvwH1F110h7n/view?usp=sharing"
